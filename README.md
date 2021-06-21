@@ -1,6 +1,6 @@
 # 🗿 Golem
 
-Atlanta is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [WoahKenny](https://github.com/Androz2091).  
+Golem is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [WoahKenny](https://github.com/Androz2091).  
 
 ### Commands
 
@@ -16,18 +16,17 @@ Golem has a lot of commands, with **5 main categories**:
 
 ## Installation
 
-### Public Client
+### Public Instance 
 
 If you don't want to edit the code of the bot, a public version is available, which you can [invite](https://discord.com/api/oauth2/authorize?client_id=856396792034623489&permissions=1074064464&scope=bot) to your Server!   
 
 ### Your Own Client
 
-If you want to edit the bot's code and host it yourself, here's how you can do so:
+If you want to edit the bots code and host it yourself, here is how you can do so:
 
 ### Prerequisites
 
-* Make sure you have the latest [Node.js](https://nodejs.org/en/) version installed aswell 
-* Make sure [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) is installed
+* Make sure you have the latest [Node.js](https://nodejs.org/en/) version and that [Git](https://www.linode.com/docs/guides/how-to-install-git-on-linux-mac-and-windows/) is installed 
 * Clone the repository by running `git clone https://github.com/WoahKenny/Golem.git` (in a folder)
 
 ### Edit Config.js
@@ -76,38 +75,37 @@ If your prefix is `$`, commands will be run like this: `$<command>`
     "AME_API":""
 }
 ```
-Now we're going to tell the bot who the owner of the bot is, that's you! (or someone else)
+Now we're going to tell the bot who the owner of the bot is, that's you! We need to get your user ID, but to do so you must have developer mode enabled. 
+If you don't, you can follow [this tutorial](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/).
 
-We need to get your user ID, but to do so you must have developer mode enabled. If you don't, you can follow [this tutorial](https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/).
-
-Once you've got that copy it into the owner field. Note: ID's look like this: `856396792034623489` not `WoahKenny#6969`
+Once you've got that copy it into the owner field. **Note: ID's look like this: `856396792034623489` not `WoahKenny#6969`**
 
 ### Getting Amethyste API
+```
 {
     "token":"NzMzOTA0NjUzOTI5OTM4OTg0.XxJ7-A.z-Y9tU8MzIKa6j3gyROvufHrCO0",
     "PREFIX": "$",
     "owner":"856396792034623489",
     "AME_API":""
 }
+```
+We have everything filled in but the `AME_API`. This is the API for a handful of commands so you will need it. 
 
-We have everything filled in but the `AME_API`. To get this you can do 1 of two things; generate your own, use a pre-made API.
-
-If you want to save some time feel free to copy the following API:
-`bb03f373caa534fcfcbaeae177a65134f44a6e57ba7a7b098be273867b376d8a677ddae3c23c6ded4fec8288573945e8c3483689deb13f229376ad4b5b60231d`
-Otherwise, generate your own on the [Amethyste API website](https://api.amethyste.moe/).
+You can generate an API on the [Amethyste API website](https://api.amethyste.moe/).
 
 ### Installing Dependencies
 
-In your terminal run `npm install` to install required dependecies. 
-If you get a line of code that says `found vulnerability...run audit fix` please do so.
+In your terminal run `npm install` to install required dependecies. If you get a line of code that says `found vulnerability...run audit fix` please do so.
 
 ### Start the bot
 
 Then run `node .` or `npm start` and your bot should be up and running.
 
-## Contributing
+## Support
 
-If you wish to contribute to the code, feel free to fork the repository and submit a pull request!
+If you wish to support this project you can do it in a few ways:
+* Contribute to the code, feel free to fork the repository and submit a pull request!
+* Starring the project. 
 
 ## Credit
 
