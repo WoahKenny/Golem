@@ -95,7 +95,7 @@ You can generate an API on the [Amethyste API website](https://api.amethyste.moe
 
 ### Installing Dependencies
 
-In your terminal run `npm install` to install required dependecies. If you get a line of code that says `found vulnerability...run audit fix` please do so.
+In your terminal run `npm install` to install required dependecies. If you get [this line of code](https://i.imgur.com/i4pzWqth.jpg) run `npm audit fix`.
 
 ### Start the bot
 
