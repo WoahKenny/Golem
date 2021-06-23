@@ -112,3 +112,5 @@ If you wish to support this project you can do it in a few ways:
 If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
 
 Thank's to [Atlanta Bot](https://www.atlanta-bot.fr/) for the Readme template.
+
+[![Stargazers repo roster for @woahkenny/golem](https://reporoster.com/stars/woahkenny/golem)](https://github.com/woahkenny/golem/stargazers)
