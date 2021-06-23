@@ -105,7 +105,7 @@ Then run `node .` or `npm start` and your bot should be up and running.
 
 If you wish to support this project you can do it in a few ways:
 * Contribute to the code, feel free to fork the repository and submit a pull request!
-* Starring the project, it moticates me a ton to continuing working on the project!
+* Starring the project, it motivates me a ton to continuing working on the project!
 
 ## Credit
 
