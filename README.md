@@ -1,6 +1,7 @@
 # 🗿 Golem
 
-Golem is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [WoahKenny](https://github.com/Androz2091).  
+[MADE IN DISCORD.JS V.12]
+Golem is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [WoahKenny](https://github.com/WoahKenny).  
 
 ### Commands
 
