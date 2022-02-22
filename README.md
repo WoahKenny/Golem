@@ -1,6 +1,6 @@
 # 🗿 Golem
 
-Source code is in Discord.js v.12, learn how to update it [here](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
+## Source code is in Discord.js v.12, learn how to update it [here](https://discordjs.guide/additional-info/changes-in-v13.html#before-you-start)
 
 Golem is an open source Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [WoahKenny](https://github.com/WoahKenny).  
 
